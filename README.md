@@ -30,7 +30,7 @@ To run the standard example esp32 wifi camera  you need to change
     //config.pixel_format = PIXFORMAT_JPEG;  // for streaming
     config.pixel_format = PIXFORMAT_RGB565; // for face detection/recognition
 ```
-This code runs fine. I am a bit worrie dthat JPEG is not a default.
+This code runs fine. I am a bit worrie that JPEG is not a default.
 
 
 

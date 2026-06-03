@@ -6,4 +6,14 @@ Since the hiwonder does not come with an sd card, I can't do the entire process,
 train on a webpage, create the myWeights.h include file and transfer that file to the arduino build 
 and then the model can run inference by choosing menu item #5.
 
-Lots of I2C errors on load, but yes it works.
+Lots of I2C errors on load, but yes it does seem to work, just at the moment not very well.
+
+
+webmcu-AI at  https://github.com/webmcu-ai
+
+The active ML training webpage is at   https://webmcu-ai.github.io/webmcu-vision-web/index.html
+
+
+
+
+

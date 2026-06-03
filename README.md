@@ -22,7 +22,6 @@ To run the standard example esp32 wifi camera  you need to change
 1. esp32 boards  esp32s3 Dev Module
 <img width="2252" height="4000" alt="hiwonder-settings" src="https://github.com/user-attachments/assets/fd7f4679-dd20-4aa5-8dcb-2b1431ffa919" />
 1. settings to change. Flahs size: 8MB, partition scheme: Huge..., PSRAM: OPI PSRAM
-   
 1. example esp32 camera- wifiwebcamera
 1. in ```boards_config.h``` activate CAMERA_MODEL_ESP32S3_EYE by uncommenting, make sure the default is commented out
     ``` #define CAMERA_MODEL_ESP32S3_EYE // Has PSRAM```

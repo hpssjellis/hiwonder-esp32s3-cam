@@ -1,6 +1,11 @@
 # hiwonder-esp32s3-cam
 hiwonder-esp32s3-cam-ai-camera and carrier-board v1.0
 
+
+<img width="989" height="1249" alt="pinout-hiwonder-esp32s3-cam-mini" src="https://github.com/user-attachments/assets/8a66a112-fb4a-4de9-8420-1a09ff11fca2" />
+
+
+
 # ESP32 S3-Cam AI Vision Module 
 ESP32-S3 Chip WiFi Real-Time Image Transmission for IoT, AI and Robot Development
 

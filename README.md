@@ -69,7 +69,17 @@ If you need to know the pins here they are
 ```
 
 
+Running the [whichCip.txt](whichCip.txt) code we get the printout
 
+```
+
+--- ESP32 CHIP IDENTIFICATION ---
+ESP32 Chip model = ESP32-S3 Rev 2
+This chip has 2 cores
+Flash size = 8 MB
+---------------------------------
+
+```
 
 
 A link to resources this from Marcello

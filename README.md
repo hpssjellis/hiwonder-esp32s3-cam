@@ -69,7 +69,7 @@ If you need to know the pins here they are
 ```
 
 
-Running the [whichCip.txt](whichCip.txt) code we get the printout
+Running the [whichChip.txt](whichChip.txt) code we get the printout
 
 ```
 

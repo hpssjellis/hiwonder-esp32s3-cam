@@ -1,0 +1,25 @@
+#include <Arduino.h>
+
+void setup() {
+  Serial.begin(115200);
+  while (!Serial) {
+    ; // Wait for serial port to connect (critical for native USB on S2/S3)
+  }
+  
+  delay(1000); 
+  
+  Serial.println("\n--- ESP32 CHIP IDENTIFICATION ---");
+  
+  // Using your precise API formatting:
+  Serial.printf("ESP32 Chip model = %s Rev %d\n", ESP.getChipModel(), ESP.getChipRevision());
+  Serial.printf("This chip has %d cores\n", ESP.getChipCores());
+  
+  // Flash size helper
+  Serial.printf("Flash size = %d MB\n", ESP.getFlashChipSize() / (1024 * 1024));
+  
+  Serial.println("---------------------------------");
+}
+
+void loop() {
+  // Static output, nothing needed here
+}

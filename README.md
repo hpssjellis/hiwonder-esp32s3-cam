@@ -38,6 +38,9 @@ To run the standard example esp32 wifi camera  you need to change
 ```
 This code runs fine. I am a bit worrie that JPEG is not a default.
 
+## Note to put it into bootloader mode push either of the two boot pins and then plug in the device. notice that each board has a boot pin. 
+
+Strange the pushing the boot pin and then taping the reset pin does not seem to work.
 
 
 

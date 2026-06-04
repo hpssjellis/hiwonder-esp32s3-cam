@@ -67,3 +67,15 @@ If you need to know the pins here they are
 #define PCLK_GPIO_NUM  13
 
 ```
+
+
+
+
+
+A link to resources this from Marcello
+
+https://www.hackster.io/mjrobot/esp32-cam-tinyml-image-classification-fruits-vs-veggies-4ab970
+
+
+
+
